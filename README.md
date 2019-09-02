@@ -30,7 +30,7 @@ Fisicamente, a atenuação pode ser entendida como mostrada a seguir. Observe no
 ![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador3.JPG)
 
 O padrão da comunicação segue o informado na imagem:
-![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador2.JPG)
+![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador5.JPG)
 
 ### 3.Circuito
 O circuito a seguir é o recomendado pelo fabricante:
