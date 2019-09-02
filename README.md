@@ -25,5 +25,9 @@ Fisicamente, a atenuação pode ser entendida como mostrada a seguir:
 O padrão da comunicação segue o informado na imagem:
 ![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador2.JPG)
 
-### 3.DATASHEET
+### 3.Circuito
+O circuito a seguir é o recomendado pelo fabricante:
+![Circuito Proposto](https://github.com/apct-2019/Mendes/blob/master/atenuador4.JPG)
+
+### 4.DATASHEET
 O manual do componente escolhido pode ser encontrado no link: https://www.analog.com/media/en/technical-documentation/data-sheets/hmc542b.pdf
