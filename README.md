@@ -5,7 +5,7 @@ Em projetos que envolvem diferentes níveis de tensão em forma de blocos encade
 A fim de possibilitar um controle via software, os atenuadores digitais são preteridos no lugar de atenuadores fixos. Em sistemas de comunicações, esses elementos são responsãveis pelo controle automático de ganho em rádios definidos por software, por exemplo.
 Abaixo é possível observar o diagrama de blocos interno ao chip HMC542BLP4E:
 
-![HMC542BLP4E Diagrama de Blocos Interno](https://github.com/roboime/BattleBot-HardwareBoards/blob/master/Morpheus/Morpheus%20v7.0(Atual)/pinout.png)
+![HMC542BLP4E Diagrama de Blocos Interno](https://github.com/apct-2019/Mendes/blob/master/atenuador1.JPG)
 
 ### 2.CARACTERÍSTICAS
 As características básicas do HMC542BLP4E são as listadas abaixo:
@@ -17,11 +17,13 @@ As características básicas do HMC542BLP4E são as listadas abaixo:
 #### Package: QFN-24
 
 ### 3.COMUNICAÇÃO
-A comunicação com o ci é feita a partir do protocolo SPI, com visualização simplificada nos esquemáticos abaixo:
+A comunicação com o ci é feita a partir do protocolo SPI, com visualização simplificada nos esquemáticos abaixo.
 
-![Comunicação SPI com o Atenuador](https://github.com/roboime/BattleBot-HardwareBoards/blob/master/Morpheus/Morpheus%20v7.0(Atual)/tabelaPins.JPG)
+Fisicamente, a atenuação pode ser entendida como mostrada a seguir:
+![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador3.JPG)
 
-![Comunicação SPI com o Atenuador](https://github.com/roboime/BattleBot-HardwareBoards/blob/master/Morpheus/Morpheus%20v7.0(Atual)/tabelaPins.JPG)
+O padrão da comunicação segue o informado na imagem:
+![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/atenuador2.JPG)
 
 ### 3.DATASHEET
 O manual do componente escolhido pode ser encontrado no link: https://www.analog.com/media/en/technical-documentation/data-sheets/hmc542b.pdf
