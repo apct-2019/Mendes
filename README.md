@@ -1,4 +1,4 @@
-﻿# APRESENTAÇÃO
+﻿# ATENUADORES
 Em projetos que envolvem diferentes níveis de tensão em forma de blocos encadeados, de forma geral, necessitam de atenuação de um bloco para outro, obedecendo a especificações tais como de figura de ruído e potência, por exemplo.
 
 ### 1.ATENUADORES DIGITAIS
