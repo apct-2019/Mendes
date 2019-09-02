@@ -2,7 +2,7 @@
 Em projetos que envolvem diferentes níveis de tensão em forma de blocos encadeados, de forma geral, necessitam de atenuação de um bloco para outro, obedecendo a especificações tais como de figura de ruído e potência, por exemplo.
 
 ### 1.ATENUADORES DIGITAIS
-A fim de possibilitar um controle via software, os atenuadores digitais são preteridos no lugar de atenuadores fixos. Em sistemas de comunicações, esses elementos são responsãveis pelo controle automático de ganho em rádios definidos por software, por exemplo.
+A fim de possibilitar um controle via software, os atenuadores digitais são preteridos no lugar de atenuadores fixos. Em sistemas de comunicações, esses elementos são responsáveis pelo controle automático de ganho em rádios definidos por software, por exemplo.
 Abaixo é possível observar o diagrama de blocos interno ao chip HMC542BLP4E:
 
 ![HMC542BLP4E Diagrama de Blocos Interno](https://github.com/apct-2019/Mendes/blob/master/atenuador1.JPG)
