@@ -38,5 +38,11 @@ O padrão da comunicação segue o informado na imagem:
 O circuito a seguir é o recomendado pelo fabricante:
 ![Circuito Proposto](https://github.com/apct-2019/Mendes/blob/master/atenuador4.JPG)
 
-### 4.DATASHEET
+### 4.Cálculo do SNR
+A fórmula abaixo se relaciona com a atenuação do nível do sinal sofrido e o SNR na saída do componente:
+![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/equacao.JPG)
+
+Observe que dado um SNR na entrada (SNR,antes), haverá alteração do valor para SNR,depois, cujo valor final depende da atenuação aplicada, sendo os valores possíveis de 0.5db a 31.5db.
+
+### 5.DATASHEET
 O manual do componente escolhido pode ser encontrado no link: https://www.analog.com/media/en/technical-documentation/data-sheets/hmc542b.pdf
