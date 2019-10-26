@@ -13,7 +13,7 @@ As características básicas do HMC542BLP4E são as listadas abaixo:
 #### Componente: HMC542BLP4E
 #### Tensão de Alimentação: 5v
 #### Corrente de Alimentação: 2.8mA
-#### Atenuações possíveis: 0.5,1,2,4,8 e 16dB (máximo de 31.5dB)
+#### Atenuações possíveis: 0.5,1,2,4,8 e 16dB (máximo de 31.5dB) - A seleção é feita escrevendo-se nos 6 bits de controle 
 #### Faixa de Frequências: DC a 4GHz
 #### Perda de inserção: 1.7dB
 #### Potência de entrada (para 0.1 dB de Compressão): 30dBm (Típico)
