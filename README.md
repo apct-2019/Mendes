@@ -40,6 +40,7 @@ O circuito a seguir é o recomendado pelo fabricante:
 
 ### 4.Cálculo do SNR
 A fórmula abaixo se relaciona com a atenuação do nível do sinal sofrido e o SNR na saída do componente (valores em dBm):
+
 ![Comunicação SPI com o Atenuador](https://github.com/apct-2019/Mendes/blob/master/equacao.JPG)
 
 Observe que dado um SNR na entrada (SNR,antes), haverá alteração do valor para SNR,depois, cujo valor final depende da atenuação aplicada, sendo os valores possíveis de 0.5dB a 31.5dB.
