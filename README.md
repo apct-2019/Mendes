@@ -1,5 +1,6 @@
 ﻿# ATENUADORES
 Em projetos que envolvem diferentes níveis de tensão em forma de blocos encadeados, de forma geral, necessitam de atenuação de um bloco para outro, obedecendo a especificações tais como de figura de ruído e potência, por exemplo.
+
 ![HMC542BLP4E Atenuador do projeto](https://github.com/apct-2019/Mendes/blob/master/atenuador0.JPG)
 
 ### 1.ATENUADORES DIGITAIS
